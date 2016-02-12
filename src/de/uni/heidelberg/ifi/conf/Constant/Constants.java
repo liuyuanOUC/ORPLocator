@@ -9,5 +9,5 @@ public class Constants {
 	public  static String preDirecotry="java\\hadoop-common";
 	public	static final Logger logger = LogManager.getLogger(); 
 	public  static final String packageStart="org";
-	
+	public static final String test="hhh";
 }
